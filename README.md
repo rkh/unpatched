@@ -53,10 +53,3 @@ Rule of thumb: Use it at the end of your method chain.
 
     gem install unpatched
 
-# TODO
-
-* Write code and documentation
-* Fix project description in gemspec
-* Change testing framework if necessary (see Rakefile, currently RSpec)
-* Adjust unpatched.gemspec if your github name is not rkh
-* Adjust License if your real name is not Konstantin Haase
