@@ -7,7 +7,7 @@ Stand alone:
 
 ``` ruby
 require 'unpatched'
-inlcude Unpatched
+include Unpatched
 
 like("FooBar").but.underscore!
 about(1).month.and(4).days.ago!
